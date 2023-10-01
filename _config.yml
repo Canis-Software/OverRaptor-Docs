@@ -1,8 +1,9 @@
 title: OverRaptor Docs
 description: Documentation for the OverRaptor Path of Titans Discord BOT
 theme: just-the-docs
-
+color_scheme: dark
 url: https://docs.overraptor.canissoftware.co.uk/
 
 aux_links:
   OverRaptor Dashboard: https://overraptor.canissoftware.co.uk/
+
