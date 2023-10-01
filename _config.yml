@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OverRaptor Docs
+description: Documentation for the OverRaptor Path of Titans Discord BOT
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://docs.overraptor.canissoftware.co.uk/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  OverRaptor Dashboard: https://overraptor.canissoftware.co.uk/
