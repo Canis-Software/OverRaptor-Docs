@@ -12,7 +12,6 @@ Login commands are executed on the Path of Titans server when a player logs in. 
 
 ### 1. Form Path of Titans command
 
-#### a.
 You can execute any path of titans command available via RCON. 
 
 OverRaptor will replace certain parameters with actual values:
@@ -27,7 +26,7 @@ An example **command** might look like -
 promote {aid} supercoolrole
 ```
 
-#### b. Expected Successful/Failed command response
+### 2. Expected Successful/Failed command response
 Players have to be in a certain state once connected for many commands to successfully execute. OverRaptor will keep trying to run the command until it produces a response containing the specified output.
 
 For example:
@@ -38,7 +37,7 @@ An example **expect-success-contains** might look like -
 Role added for
 ```
 
-### 2. Add command
+### 3. Add command
 
 Add command with only expected success response:
 ```
